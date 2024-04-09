@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://isaaxite.github.io/blog/blog/resources/linux-%E8%BD%AF%E4%BB%B6-tmux/</loc>
+    <lastmod>2024-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://isaaxite.github.io/blog/blog/resources/linux-%E8%BD%AF%E4%BB%B6-wechat-cursor%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2024-03-30</lastmod>
+    <lastmod>2024-03-31</lastmod>
   </url>
   <url>
     <loc>https://isaaxite.github.io/blog/blog/resources/leetcode-algorithm-test/</loc>

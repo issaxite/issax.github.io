@@ -6,7 +6,7 @@
   <link href="https://isaaxite.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://isaaxite.github.io/blog/"/>
-  <updated>2024-03-30T08:04:40.629Z</updated>
+  <updated>2024-04-09T21:48:00.125Z</updated>
   <id>https://isaaxite.github.io/blog/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一次性理清 tmux 的概念与基本使用</title>
+    <link href="https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-tmux/"/>
+    <id>https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-tmux/</id>
+    <published>2024-03-31T08:59:23.000Z</published>
+    <updated>2024-04-09T21:48:00.125Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;本文的首要目的是记录，而非完全性的指南，不免会有缺漏。目标是随时间的推移逐步完善此记录，最终达到指南的程度。将以 tmux 的官方文档为核心其他资料为辅介绍 tmux 的基本概念和术语，让 tmux 的潜在用户对它有基本的了解，以达到无痛入门，降低心智消耗的作用。涉及 tmux 的会话（session）、视窗（window）、窗格（pane）和其他的核心内容的基本使用，以达到开箱即用，为 tmux 拾一根薪火（赞美太阳🔥）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Linux 工具" scheme="https://isaaxite.github.io/blog/categories/Linux-%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="linux" scheme="https://isaaxite.github.io/blog/tags/linux/"/>
+    
+    <category term="terminal" scheme="https://isaaxite.github.io/blog/tags/terminal/"/>
+    
+    <category term="tmux" scheme="https://isaaxite.github.io/blog/tags/tmux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>🚧 Linux-Wechat 体验导向的 Flatpak 探索</title>
     <link href="https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-wechat-cursor%E9%97%AE%E9%A2%98/"/>
     <id>https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-wechat-cursor%E9%97%AE%E9%A2%98/</id>
     <published>2024-03-22T09:21:12.000Z</published>
-    <updated>2024-03-30T08:04:40.629Z</updated>
+    <updated>2024-03-31T16:55:06.537Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;我当前使用的大部分软件都有被 Deb（Chromium、VS Code 等） Appimage （Motrix、Qv2ray等）覆盖到，其他一部分使用 WebApp （Neat Reader、Google Translate等）代替，实在无解则使用 win7 虚拟机（微信、迅雷等）。&lt;/p&gt;
@@ -29,6 +52,10 @@
     
     
     
+    
+    <category term="linux" scheme="https://isaaxite.github.io/blog/tags/linux/"/>
+    
+    <category term="Flatpak" scheme="https://isaaxite.github.io/blog/tags/Flatpak/"/>
     
   </entry>
   
@@ -470,26 +497,6 @@
     <category term="wsl" scheme="https://isaaxite.github.io/blog/tags/wsl/"/>
     
     <category term="github" scheme="https://isaaxite.github.io/blog/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WSL的hosts文件被重置</title>
-    <link href="https://isaaxite.github.io/blog/resources/WSL%E7%9A%84hosts%E6%96%87%E4%BB%B6%E8%A2%AB%E9%87%8D%E7%BD%AE/"/>
-    <id>https://isaaxite.github.io/blog/resources/WSL%E7%9A%84hosts%E6%96%87%E4%BB%B6%E8%A2%AB%E9%87%8D%E7%BD%AE/</id>
-    <published>2023-03-08T08:01:21.000Z</published>
-    <updated>2023-11-27T13:38:15.564Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;使用WSL安装软件时，需要从 &lt;code&gt;raw.githubusercontent.com&lt;/code&gt; 拉取数据，抛异常 403。经查阅是DNS污染导致，推荐的解决方案是修改hosts文件，添加域名与ip的映射。&lt;/p&gt;
-&lt;p&gt;然而，再第二天打开电脑再次登入wsl发现，继续403异常！查看hosts文件：内容被重置！&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="WSL" scheme="https://isaaxite.github.io/blog/categories/WSL/"/>
-    
-    
-    <category term="WSL" scheme="https://isaaxite.github.io/blog/tags/WSL/"/>
     
   </entry>
   

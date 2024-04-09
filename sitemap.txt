@@ -1,9 +1,10 @@
+https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-tmux/
 https://isaaxite.github.io/blog/resources/linux-%E8%BD%AF%E4%BB%B6-wechat-cursor%E9%97%AE%E9%A2%98/
-https://isaaxite.github.io/blog/resources/leetcode-algorithm-test/
-https://isaaxite.github.io/blog/daily/index.html
 https://isaaxite.github.io/blog/coder_manual/index.html
+https://isaaxite.github.io/blog/daily/index.html
 https://isaaxite.github.io/blog/games/index.html
 https://isaaxite.github.io/blog/plan/index.html
+https://isaaxite.github.io/blog/resources/leetcode-algorithm-test/
 https://isaaxite.github.io/blog/resources/vue%E4%B8%AD%E7%9A%84diff%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0/
 https://isaaxite.github.io/blog/plan/knowledge-types/index.html
 https://isaaxite.github.io/blog/plan/202401/index.html
@@ -174,6 +175,8 @@ https://isaaxite.github.io/blog/tags/tampermonkey/
 https://isaaxite.github.io/blog/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/
 https://isaaxite.github.io/blog/tags/TypeScript/
 https://isaaxite.github.io/blog/tags/%E8%A3%85%E9%A5%B0%E5%99%A8/
+https://isaaxite.github.io/blog/tags/tmux/
+https://isaaxite.github.io/blog/tags/Flatpak/
 https://isaaxite.github.io/blog/categories/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/
 https://isaaxite.github.io/blog/categories/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/
 https://isaaxite.github.io/blog/categories/CI-CD/
@@ -204,3 +207,4 @@ https://isaaxite.github.io/blog/categories/Nest/
 https://isaaxite.github.io/blog/categories/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/
 https://isaaxite.github.io/blog/categories/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/
 https://isaaxite.github.io/blog/categories/TypeScript/
+https://isaaxite.github.io/blog/categories/Linux-%E5%B7%A5%E5%85%B7/
